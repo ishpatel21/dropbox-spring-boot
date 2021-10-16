@@ -1,6 +1,4 @@
 # dropbox-spring-boot
-
-# How to run on AWS Lambda
  1. Go to https://www.dropbox.com/developers/apps
  2. sign in
  3. Add new application
